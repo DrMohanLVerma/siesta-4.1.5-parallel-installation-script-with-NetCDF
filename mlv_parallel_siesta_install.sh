@@ -1,6 +1,6 @@
 #!/bin/bash
 #=========================================================================#
-# Script: Install SIESTA Parallel  and related Tools  with netcdf4        #
+# Script: Install siesta-4.1-b4 Parallel  and related Tools  with netcdf4 #
 #=========================================================================#      
 # Authors: Narender Kumar and Dr Mohan L Verma                            #  
 #         Computational Nanomaterials Research Lab                        #
